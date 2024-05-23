@@ -1,1 +1,2 @@
 # project2
+I am excited to share details about my second internship task at Prodigy InfoTech. I was tasked with creating a straightforward image encryption tool through pixel manipulation. Using basic mathematical operations applied to each pixel, the tool allows users to provide an encryption key for both encrypting and decrypting images. However, due to the simplicity of the method, while encryption is effectively achieved, the decryption process results in some loss of image quality, meaning the decrypted image will not perfectly match the original.
